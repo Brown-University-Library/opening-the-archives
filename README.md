@@ -1,2 +1,2 @@
 # opening-the-archives
-WordPress templates for OTA production site
+WordPress templates and other theme assets for OTA production site
